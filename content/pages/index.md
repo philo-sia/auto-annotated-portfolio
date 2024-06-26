@@ -50,7 +50,7 @@ sections:
       type: ImageBlock
       url: /images/RajieCam.jpg
       altText: altText of the image
-      caption: Caption of the image
+      caption: rajie.com
       elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection
