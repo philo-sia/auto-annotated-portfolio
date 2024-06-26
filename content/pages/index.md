@@ -83,7 +83,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Projects
+    subtitle: Movies
     title: Movies
   - type: FeaturedPostsSection
     elementId: ''
