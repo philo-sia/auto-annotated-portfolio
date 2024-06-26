@@ -17,9 +17,8 @@ sections:
       I’m a Cinematographer, director artist, producer and a bunch of other
       stuff.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      This is my info —I’m still working on sharing it all this with you all.
+      Hang on for a few days!!
     styles:
       self:
         height: auto
