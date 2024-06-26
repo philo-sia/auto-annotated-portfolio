@@ -16,9 +16,7 @@ sections:
     title: >-
       I’m a Cinematographer, director,artist, producer and a bunch of other
       stuff.
-    subtitle: >-
-      This is my info —I’m still working on sharing it all this with you all.
-      Hang on for a few days!!
+    subtitle: This is my info —I’m still working on sharing it all this with you.
     styles:
       self:
         height: auto
