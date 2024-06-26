@@ -84,7 +84,7 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Movies
-    title: Movies
+    title: My Works
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
