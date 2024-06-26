@@ -49,7 +49,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/RajieCam.jpg
-      altText: altText of the image
+      altText: 'rajie, rp, rajendra prasad'
       caption: rajie.com
       elementId: ''
   - colors: colors-f
