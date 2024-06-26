@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a Cinematographer, director artist, producer and a bunch of other
+      I’m a Cinematographer, director,artist, producer and a bunch of other
       stuff.
     subtitle: >-
       This is my info —I’m still working on sharing it all this with you all.
