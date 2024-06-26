@@ -3,7 +3,7 @@ type: PostLayout
 title: "Who Am I \U0001F5C2️"
 colors: colors-a
 date: '2024-06-03'
-excerpt: More context that may or may not be helpful
+excerpt: Why Do You Care?
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
